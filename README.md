@@ -17,6 +17,7 @@ List of useful commands:
 - Show all files in folder: `ls -all`
 - Edit path variables: `gksudo gedit /etc/environment`
 - Clear terminal windows: `clear`
-- Create copy of file in same directory `cp bla.txt ./bla2.txt`
+- Create copy of file in same directory: `cp bla.txt ./bla2.txt`
+- List files in folder as list: `ls -1`
 
 add more commands here
