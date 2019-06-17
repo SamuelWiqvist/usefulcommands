@@ -6,6 +6,7 @@ List of useful:
 
 - New repo:`git init`
 - Check status: `git status`
+- Show current commit `git log -1`
 
 add more commands here
 
