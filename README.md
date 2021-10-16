@@ -21,4 +21,8 @@ List of useful commands:
 - Create copy of file in same directory: `cp bla.txt ./bla2.txt`
 - List files in folder as list: `ls -1`
 
+### Mac specific commands
+
+- Increase font size in terminal "Command + Plus", to decrease use "Command + -"
+
 add more commands here
